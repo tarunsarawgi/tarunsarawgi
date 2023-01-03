@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Tarun Sarawgi</h1>
 <h3 align="center">A passionate fronted developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tarunsarawgi&label=Profile%20views&color=0e75b6&style=flat" alt="tarunsarawgi" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarunsarawgi" alt="tarunsarawgi" /></a> </p>
 
@@ -21,6 +21,17 @@
 - 👯 I’m looking to collaborate on **Web Development and Machine Learning**
 
 - 💬 Ask me about Anything here! **I am happy to Help.**
+
+<br/>
+<br/>
+
+
+<p align="center">
+  <img src="https://gpvc.arturio.dev/tarunsarawgi" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •  
+<!--   <img alt = "profile views" src="https://komarev.com/ghpvc/?username=tarunsarawgi&style=flat&color=brightgreen"> •    -->
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/tarunsarawgi?label=Followers&style=social"> •   
+  <img src="https://img.shields.io/github/stars/tarunsarawgi?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
