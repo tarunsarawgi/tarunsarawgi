@@ -6,6 +6,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarunsarawgi" alt="tarunsarawgi" /></a> </p>
 
+<br/>
+<br/>
+<a target="_blank">
+  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/tarunsarawgi/tarunsarawgi/blob/main/GIF/image.gif">
+</a>
+
 - 🔭 I’m currently working on **Data Structure and Web Development**
 
 - 🤝 I’m looking for help with **Internships**
