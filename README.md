@@ -45,6 +45,17 @@
 
 
 <br/>
+<br/>
+
+<p align="center">
+  <a>
+    <img height="150" width="175" src="https://github.com/tarunsarawgi/tarunsarawgi/blob/main/PNG/left.png">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarunsarawgi&theme=dark&hide_border=true"/>
+    <img height="150" width="175" src="https://github.com/tarunsarawgi/tarunsarawgi/blob/main/PNG/right.png">
+  </a>
+</p>
+<br/>
+<br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
