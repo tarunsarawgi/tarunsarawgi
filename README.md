@@ -112,11 +112,48 @@
 <br>
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tarunsarawgi&show_icons=true&locale=en&layout=compact" alt="tarunsarawgi" /></p>
+#
+<h1>
+  Connect With Me
+  <a target="_blank">
+    <img src="https://github.com/tarunsarawgi/tarunsarawgi/blob/main/GIF/Handshake.gif" height="25px" style="max-width:100%;">
+  </a>
+</h1>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tarunsarawgi&show_icons=true&locale=en" alt="tarunsarawgi" /></p>
+<p align="center">
+  <br>
+  <a href="https://www.linkedin.com/in/tarun-sarawgi-33ba7516a/" target="_blank">
+    <code><img height="60" width="60" src="https://github.com/tarunsarawgi/tarunsarawgi/blob/main/SVG/linkedin.svg"/></code>
+  </a>
+  <a href="https://www.facebook.com/yash.sarawgi.946/" target="_blank">
+    <code><img  height="60" width="60" src="https://github.com/tarunsarawgi/tarunsarawgi/blob/main/SVG/facebook.svg"/></code>
+  </a>
+  <a href="https://www.instagram.com/tarunsarawgi/?next=%2F" target="_blank">
+    <code><img height="60" width="60" src="https://github.com/tarunsarawgi/tarunsarawgi/blob/main/SVG/instagram.svg"/></code>
+  </a>
+      
+</p>
+<br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarunsarawgi&" alt="tarunsarawgi" /></p>
+<p align="center">
+  <a href="https://www.hackerrank.com/sarawgitarun" target="_blank">
+    <code><img height="60" width="60" src="https://github.com/tarunsarawgi/tarunsarawgi/blob/main/PNG/hr.png"/></code>
+  </a>
+
+
+  
+
+  <a href="https://www.codechef.com/users/tarunsarawgi" target="_blank">
+    <code><img height="60" width="60" src="https://github.com/tarunsarawgi/tarunsarawgi/blob/main/SVG/cc.svg"/></code>
+  </a>
+  
+  <a href="https://leetcode.com/tarunsarawgi/" target="_blank">
+    <code><img height="60" width="60" src="https://github.com/tarunsarawgi/tarunsarawgi/blob/main/PNG/lc.png"/></code>
+  </a>
+</p>
+
+<br/>
+<br/>
 
 <div align="center">
 
