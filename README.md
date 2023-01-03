@@ -48,9 +48,9 @@
 
 <p align="center">
   <a>
-    <img height="130" width="165" src="https://github.com/tarunsarawgi/tarunsarawgi/blob/main/PNG/left.png">
+    <img height="130" width="175" src="https://github.com/tarunsarawgi/tarunsarawgi/blob/main/PNG/left.png">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarunsarawgi&theme=dark&hide_border=true"/>
-    <img height="130" width="165" src="https://github.com/tarunsarawgi/tarunsarawgi/blob/main/PNG/right.png">
+    <img height="130" width="175" src="https://github.com/tarunsarawgi/tarunsarawgi/blob/main/PNG/right.png">
   </a>
 </p>
 <br/>
