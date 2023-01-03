@@ -39,7 +39,10 @@
 <br/>
 <br/>
 
-<p align="centre"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarunsarawgi" alt="tarunsarawgi" /></a> </p>
+#
+
+[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=ProfessorTkd&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/tarunsarawgi)
+
 
 <br/>
 
