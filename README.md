@@ -4,7 +4,7 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarunsarawgi" alt="tarunsarawgi" /></a> </p>
+
 
 <br/>
 <br/>
@@ -34,6 +34,14 @@
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/tarunsarawgi?label=Followers&style=social"> •   
   <img src="https://img.shields.io/github/stars/tarunsarawgi?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 </p>
+
+<br/>
+<br/>
+<br/>
+
+<p align="centre"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarunsarawgi" alt="tarunsarawgi" /></a> </p>
+
+<br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
