@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Tarun Sarawgi</h1>
-<h3 align="center">A passionate Front-End Developer</h3>
+<h3 align="center">An AI-ML Enthusiast</h3>
 
 
 
@@ -12,13 +12,13 @@
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/tarunsarawgi/tarunsarawgi/blob/main/GIF/image.gif">
 </a>
 
-- 🔭 I’m currently working on **Data Structure and Web Development**
+- 🔭 I’m currently working as Data Analyst at **GeeksforGeeks**
 
 - 🤝 I’m looking for help with **Internships**
 
-- 🌱 I’m currently learning **Competetive Programming**
+- 🌱 I’m currently learning **Machine Learning**
 
-- 👯 I’m looking to collaborate on **Web Development and Machine Learning**
+- 👯 I’m looking to collaborate on **Machine Learning and Data Engineering**
 
 - 💬 Ask me about Anything here! **I am happy to Help.**
 
